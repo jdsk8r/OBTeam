@@ -10,6 +10,8 @@ import junit.framework.TestCase;
 
 public class OBTeamQA extends TestCase {
 	
+	//this the parent class from all Test inherits
+	
 	protected Selenium selenium;
 
 	@Before
