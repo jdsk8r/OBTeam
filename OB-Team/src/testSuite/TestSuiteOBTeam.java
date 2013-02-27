@@ -10,6 +10,8 @@ import startPage.StartPageTestSuite;
 
 public class TestSuiteOBTeam {
 	
+	/* this class runs the Test Suite of All Packages */
+	
 	 public static Test suite() {
 	        TestSuite suite = new TestSuite("Suite OB-Team Project");
 	        suite.addTest(LoginPageTestSuite.suite());
